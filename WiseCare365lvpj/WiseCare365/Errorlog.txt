@@ -1,0 +1,35 @@
+Time: 6:23:22 Problems:
+=======================================================================
+Key: HKEY_LOCAL_MACHINE\Software\Wow6432Node\AlibabaProtect\cs_16_inst_paths
+Reason: Remove value failed.
+-----------------------------------------------------------------------
+Time: 0:01:12 Problems:
+=======================================================================
+Key: HKEY_LOCAL_MACHINE\Software\Wow6432Node\AlibabaProtect\cs_16_inst_paths
+Reason: Remove value failed.
+-----------------------------------------------------------------------
+Time: 8:04:35 Problems:
+=======================================================================
+Key: HKEY_LOCAL_MACHINE\Software\Wow6432Node\AlibabaProtect\cs_16_inst_paths
+Reason: Remove value failed.
+-----------------------------------------------------------------------
+Time: 22:05:06 Problems:
+=======================================================================
+Key: HKEY_LOCAL_MACHINE\Software\Wow6432Node\AlibabaProtect\cs_16_inst_paths
+Reason: Remove value failed.
+-----------------------------------------------------------------------
+Time: 19:39:02 Problems:
+=======================================================================
+Key: HKEY_LOCAL_MACHINE\Software\Wow6432Node\AlibabaProtect\cs_16_inst_paths
+Reason: Remove value failed.
+-----------------------------------------------------------------------
+Time: 21:16:29 Problems:
+=======================================================================
+Key: HKEY_LOCAL_MACHINE\Software\Wow6432Node\AlibabaProtect\cs_16_inst_paths
+Reason: Remove value failed.
+-----------------------------------------------------------------------
+Time: 3:17:05 Problems:
+=======================================================================
+Key: HKEY_LOCAL_MACHINE\Software\Wow6432Node\AlibabaProtect\cs_16_inst_paths
+Reason: Remove value failed.
+-----------------------------------------------------------------------
